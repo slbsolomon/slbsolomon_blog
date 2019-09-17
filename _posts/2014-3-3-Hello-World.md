@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Do you finish everything you start?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am absolutely guilty of starting books with great intentions, then either losing interest or being lazy and not finishing. At one point, I actually used to read the last page of books to try and force myself to finish and get context, but nothing seems to work. I am really envious of people who always finish their books because I think it makes a statement about their dedication and attention span. That said, when I want to run a distance, I do it. Most recently, after deciding that I didn't want to be an auditor (as I had planned), I decided to complete my degree in Accounting, just in case. I have 2 books currently sitting on my bedside table that I haven't finished, so what I want to ask of you (yeah, you!) is to tell me something that you believe is worth finishing and something that you can stand to leave unfinished, or leave some tips on how you finish your books when you're in a rut.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Looking forwards to hearing from you!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Sam

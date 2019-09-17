@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I recently graduated from UBC's Sauder School of Business with a Bachelor of Commerce with a double-major in Accounting and Business Technology Management. I am currently a Master of Data Science candidate at UBC, and outside of school I love to run and downhill ski, and I am passionate about climate change and water conservation.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[slbsolomon@gmail.com](mailto:slbsolomon@gmail.com)
